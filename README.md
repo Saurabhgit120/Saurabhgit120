@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [SAURABH SINGH]
+# 👋 Hi, I'm SAURABH SINGH
 
 🎓 I'm a B.Tech Computer Science & Engineering student passionate about software development, problem-solving, and continuous learning.  
 💻 I have hands-on experience with **Java**, **C**, and **C++**, and I’m currently learning **JavaScript** to explore web development.
